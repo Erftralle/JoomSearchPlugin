@@ -2,11 +2,11 @@
 <extension type="plugin" group="search" version="3.0" method="upgrade">
   <name>plg_search_joomgallery</name>
   <author>JoomGallery::Project Team</author>
-  <creationDate>2019/04/03</creationDate>
+  <creationDate>2019/07/18</creationDate>
   <authorUrl>www.joomgalleryfriends.net</authorUrl>
   <copyright>(C) 2009 - 2019 JoomGallery::Project Team</copyright>
   <license>This module is released under the GNU/GPL License</license>
-  <version>3.1.1</version>
+  <version>3.1.2</version>
   <description>PLG_SEARCH_JOOMGALLERY_DESC</description>
   <files>
     <filename plugin="joomgallery">joomgallery.php</filename>

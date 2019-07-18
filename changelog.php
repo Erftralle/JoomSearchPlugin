@@ -14,7 +14,7 @@ Legende / Legend:
 ! -> Note
 
 -------------------------------------------------------------------------------
-PLG_SEARCH_JOOMGALLERY version: 3.x.x
+PLG_SEARCH_JOOMGALLERY version: 3.1.2
 -------------------------------------------------------------------------------
 20190611
 # Removes escaping the search item title in the template override as it may 
